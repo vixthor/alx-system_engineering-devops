@@ -1,2 +1,2 @@
-#!/bin/bash
-groups root
+#!/bin/bash 
+id -G
