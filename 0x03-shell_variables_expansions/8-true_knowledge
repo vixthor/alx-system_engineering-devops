@@ -1,2 +1,2 @@
 #!/bin/bash
-sum = $((28 + $TRUEKNOWLEDGE)) | echo
+echo $((28 + $TRUEKNOWLEDGE))
